@@ -13,3 +13,207 @@ house
 3: Eventually, the lack of ability to adjust the houses to changing standards caused neighbourhood aging and the departure of well-off residents.
 4: The exact number is difficult to enumerate, as the official census figures tend to exclude informal beer houses and shops.
 5: Later it was extended to include the whole rural population, including those who already had houses, which turned it into a villagisation programme.
+
+
+-----------
+house
+1: a building where people live, usually one family or group
+2: the people who live in a house
+3: the place where a particular business or activity happens
+4: a group of people that makes a country's laws, or the place where they meet
+5: the people watching a performance or the area where they sit
+
+1: The village required comprehensive regeneration and not simply the building of houses on the competition site.
+2: When it comes to building houses, however, very few support public provision.
+3: The typical urbanizacion has several hundred single-family houses and/or apartment buildings, often built by one developer.
+4: The houses in the scheme were therefore not designed as specific objects, but rather as the definers of public space.
+5: The first three houses were abbeys, the last a priory.
+
+
+-----------
+doom
+1: death, destruction, and other unpleasant events that cannot be avoided
+2: unhappiness and feeling no hope for the future
+3: fate, especially something terrible and final which is about to happen (to one)
+4: to condemn; to make certain to come to harm, fail etc
+
+1: Constructing the history of a modern area of "applied mathematics" such as twentieth-century mathematical economics would appear doomed from the start.
+2: Revision of materials and methods alone has not resulted in a coherent relationship between theory and practice; future revisions are also doomed to failure.
+3: Many of these doomed larvae had crawled onto the sides of the vial rather than remaining on the food.
+4: Needless to say, all attempts at theoretical thinking were doomed as long as this ideal was extolled.
+5: We seemed doomed to disagree about what is a cliche and what is not.
+
+
+-----------
+dog
+1: an animal with fur, four legs, and a tail that is kept as a pet, or trained to guard buildings and guide blind people
+2: to cause someone or something trouble for a long time
+3: a domestic, meat-eating animal related to the wolf and fox
+4: (usually of members of the [34mdog family) male
+5: to follow closely as a [34mdog does
+
+
+
+-----------
+dog
+1: an animal with fur, four legs, and a tail that is kept as a pet, or trained to guard buildings and guide blind people
+2: to cause someone or something trouble for a long time
+3: a domestic, meat-eating animal related to the wolf and fox
+4: (usually of members of the dog family) male
+5: to follow closely as a dog does
+
+
+
+-----------
+dog
+1: an animal with fur, four legs, and a tail that is kept as a pet, or trained to guard buildings and guide blind people
+2: to cause someone or something trouble for a long time
+3: a domestic, meat-eating animal related to the wolf and fox
+4: (usually of members of the dog family) male
+5: to follow closely as a dog does
+
+
+
+-----------
+house
+1: a building where people live, usually one family or group
+2: the people who live in a house
+3: the place where a particular business or activity happens
+4: a group of people that makes a country's laws, or the place where they meet
+5: the people watching a performance or the area where they sit
+
+
+
+-----------
+home
+1: the place where you live or feel you belong
+2: a place where people who need special care live
+3: to feel happy and confident in a place or situation
+4: to behave in a relaxed way in a place, as if it was your own home
+5: the place where you usually find something or someone, or where they come from
+
+
+
+-----------
+house
+1: a building where people live, usually one family or group
+2: the people who live in a house
+3: the place where a particular business or activity happens
+4: a group of people that makes a country's laws, or the place where they meet
+5: the people watching a performance or the area where they sit
+
+
+
+-----------
+home
+1: the place where you live or feel you belong
+2: a place where people who need special care live
+3: to feel happy and confident in a place or situation
+4: to behave in a relaxed way in a place, as if it was your own home
+5: the place where you usually find something or someone, or where they come from
+
+1: Older infants may be more likely to have moved around to different foster homes and thus to have suffered more disruptions than younger infants.
+2: The philosophy of these homes is characterized by a very strong emphasis on training the staff.
+3: Soldiers on leave and veterans returning home undoubtedly passed on their knowledge and experiences to the rest of the population.
+4: Large private providers may therefore deliver relatively high quality care, but this tends to be standardised across all their homes.
+5: The mediastinal drain is removed on the morning after surgery and the patient is discharged home on the third day.
+
+
+-----------
+home
+1: the place where you live or feel you belong
+2: a place where people who need special care live
+3: to feel happy and confident in a place or situation
+4: to behave in a relaxed way in a place, as if it was your own home
+5: the place where you usually find something or someone, or where they come from
+
+
+
+-----------
+home
+1: the place where you live or feel you belong
+2: a place where people who need special care live
+3: to feel happy and confident in a place or situation
+4: to behave in a relaxed way in a place, as if it was your own home
+5: the place where you usually find something or someone, or where they come from
+
+1: Other studies indicate that the quality of [34mhome[39m and work roles intersect in important ways to predict well-being.
+2: Sensitivity in the caregiver-infant interaction was assessed by behavior observations within the scope of [34mhome[39m visits.
+3: A group of 27 older adults in inpatient rehabilitation were interviewed during the programme and after returning [34mhome[39m.
+4: The respondents were again reassured on confidentiality during [34mhome[39m visits.
+5: She visits their [34mhome[39m and, after an hour or so of closely questioning them, is pretty sure her suspicions are accurate.
+
+
+-----------
+house
+1: a building where people live, usually one family or group
+2: the people who live in a house
+3: the place where a particular business or activity happens
+4: a group of people that makes a country's laws, or the place where they meet
+5: the people watching a performance or the area where they sit
+
+1: Later it was extended to include the whole rural population, including those who already had [34mhouse[39ms, which turned it into a villagisation programme.
+2: When it comes to building [34mhouse[39ms, however, very few support public provision.
+3: In the case of the hedge [34mhouse[39ms there are four floors.
+4: Spatial clustering indicates that more mosquitoes were found in some [34mhouse[39ms than others.
+5: Libations, funeral anniversaries, pictures, tombs, [34mhouse[39ms and inscriptions on the wall : all contribute to the remembrance and help to maintain the concept of ancestor.
+
+
+-----------
+mouse
+
+
+
+-----------
+world
+1: the Earth and all the people, places, and things on it
+2: the people and things that are involved in a particular activity or subject
+3: a particular area of the Earth
+4: plants/animals, etc as a group
+5: your life and experiences
+
+1: In both cases the historical actor becomes a subject, his conceptual [34mworld[39m derives from his position in a structural relationship only.
+2: It follows that a theoretical hypothesis claims a similarity between a model and some part of the [34mworld[39m.
+3: Ideally, the medium is supposed to be precisely what the word indicates: a neutral, transparent conduit between the two [34mworld[39ms.
+4: Its pupils came from all over the [34mworld[39m.
+5: For even if features of the [34mworld[39m were literally represented in brains/ minds, these representations would not explain cognition.
+
+
+-----------
+rose
+1: a flower with a pleasant smell and thorns (= sharp points on the stem), that grows on a bush
+2: past tense of rise
+3: pink wine
+4: a light pink wine
+5: a kind of brightly-coloured/-colored, usually sweet-scented flower, usually with sharp thorns
+
+
+
+-----------
+home
+1: the place where you live or feel you belong
+2: a place where people who need special care live
+3: to feel happy and confident in a place or situation
+4: to behave in a relaxed way in a place, as if it was your own home
+5: the place where you usually find something or someone, or where they come from
+
+1: She visits their [32mhome[39m and, after an hour or so of closely questioning them, is pretty sure her suspicions are accurate.
+2: A group of 27 older adults in inpatient rehabilitation were interviewed during the programme and after returning [32mhome[39m.
+3: Other studies indicate that the quality of [32mhome[39m and work roles intersect in important ways to predict well-being.
+4: The respondents were again reassured on confidentiality during [32mhome[39m visits.
+5: The data were collected at [32mhome[39m parties, lunchtime breaks, and other private venues.
+
+
+-----------
+house
+1: a building where people live, usually one family or group
+2: the people who live in a house
+3: the place where a particular business or activity happens
+4: a group of people that makes a country's laws, or the place where they meet
+5: the people watching a performance or the area where they sit
+
+1: Eventually, the lack of ability to adjust the [32mhouse[39ms to changing standards caused neighbourhood aging and the departure of well-off residents.
+2: The exact number is difficult to enumerate, as the official census figures tend to exclude informal beer [32mhouse[39ms and shops.
+3: The transition [32mhouse[39ms were included in order to see if the transition nature of the designs would be reflected in the evaluation.
+4: In many of these areas the large number is likely to be the result of the repeated abandonment of [32mhouse[39ms.
+5: Middle-class couples were also more likely to go to friends' [32mhouse[39ms for meals and on holidays together.
