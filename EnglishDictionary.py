@@ -29,9 +29,13 @@ class Translations():
 
     def getExampleWithColoredWord(self, sentenceNumber, wordToColor):
         sentenceNumber = sentenceNumber-1
-        wynik = self.exampleList[sentenceNumber]
-        #wynik = wynik.replace(wordToColor+"s", Fore.GREEN+wordToColor+"s"+Fore.RESET)
-        wynik = wynik.replace(wordToColor, Fore.GREEN+wordToColor+Fore.RESET)
+        wynik = self.exampleList[sentenceNumber]        
+        wynik = wynik.replace(wordToColor+'\'s', Fore.GREEN+wordToColor+'\'s'+Fore.RESET)
+        wynik = wynik.replace(wordToColor+'s', Fore.GREEN+wordToColor+'s'+Fore.RESET)        
+        wynik = wynik.replace(wordToColor+' ', Fore.GREEN+wordToColor+' '+Fore.RESET)
+        wynik = wynik.replace(wordToColor+';', Fore.GREEN+wordToColor+';'+Fore.RESET)
+        wynik = wynik.replace(wordToColor+',', Fore.GREEN+wordToColor+','+Fore.RESET)
+        wynik = wynik.replace(wordToColor+'.', Fore.GREEN+wordToColor+'.'+Fore.RESET)
         return wynik
         
     def max(self):
