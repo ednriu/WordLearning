@@ -91,7 +91,7 @@ try:
             break
         translationInEnglish.addExample(ptag.text)
         print(str(counter) +": " + translationInEnglish.getExampleWithColoredWord(counter,searchedWord))
-        TextToFile = TextToFile + str(counter) +": " +translationInEnglish.getExample(counter) + "\n"
+        TextToFile = TextToFile + str(counter) +": "+translationInEnglish.getExample(counter) +"\n"
         counter=counter+1
 except AttributeError as e:
    print("none")
@@ -100,5 +100,3 @@ except AttributeError as e:
 if soup.find_all('div', class_='def ddef_d db'):    
     f = open('Printout.txt', 'a') 
     f.write(TextToFile)
-    
-
