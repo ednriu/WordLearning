@@ -3,6 +3,7 @@ import requests
 import os
 from colorama import Fore
 import keyboard
+from msvcrt import getch,kbhit
 
 class Translations():   
     
@@ -43,17 +44,23 @@ class Translations():
         return len(self.sentencesList)
     pass
     
+    
 def menu():
     while True:
-        print("N=new translation; S=settings; Q=quit;")
-        if keyboard.read_key() == "n":
+        print("------------------------------------------")
+        print("\n\nN=new translation; S=settings; Q=quit;")
+        if keyboard.is_pressed("n"):
+            while kbhit(): getch() #consuming any input/flush input
             translator()
             break
-        #if keyboard.read_key() == "s":
-        #    print("You pressed s")
-        #    break
+        if keyboard.read_key() == "s":
+            while kbhit(): getch() #consuming any input/flush input
+            print("Settings")
+            menu()
+            break
         
         if keyboard.read_key() == "q":
+            while kbhit(): getch() #consuming any input/flush input
             exit()
             break
  
