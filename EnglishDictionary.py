@@ -49,7 +49,7 @@ def menu():
     while True:
         print("------------------------------------------")
         print("\n\nN=new translation; S=settings; Q=quit;")
-        if keyboard.is_pressed("n"):
+        if keyboard.read_key() == "n":
             while kbhit(): getch() #consuming any input/flush input
             translator()
             break
@@ -123,7 +123,7 @@ def translator():
     if soup.find_all('div', class_='def ddef_d db'):    
         f = open('Printout.txt', 'a') 
         f.write(TextToFile)
-    
+    #call Menu procedure (show menu)
     menu()
 
 
